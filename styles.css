@@ -169,7 +169,7 @@ body {
 }
 
 .container_botao:hover{
-    background-color: red;
+    background-color: var(--botao-clicado)
     transition: 1s all;
 	cursor: pointer;
     transform: scale(1.1);
